@@ -1,6 +1,6 @@
 # Deep Learning Projects
 
-This repository is a collection of deep learning projects and assignments.
+This repository is a collection of small deep learning projects and assignments.
 
 ## Projects
 
